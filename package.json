@@ -1,0 +1,14 @@
+{
+  "name": "calculadorabootcamp3",
+  "version": "1.0.0",
+  "description": "Projeto minha calculadora bootcamp 2025",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Bernardo Oliveira",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^11.1.0"
+  }
+}
